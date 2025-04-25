@@ -1,0 +1,3 @@
+0 1 * * 5 sudo apt-get update -y && sudo apt-get dist-upgrade -y
+0 2 * * 5 sudo reboot
+0 5 * * 5 sudo bash /home/ubuntu/update-n8n.sh
