@@ -139,6 +139,20 @@ Then check if n8n has updated:
 n8n --version
 ```
 
+## 📚 Learn More & Resources
+
+- 🎓 **Master the Full Potential of n8n**  
+  [Udemy Course – Mastering n8n: AI Agents, API Automation, Webhooks, No Code](https://www.udemy.com/course/mastering-n8n-ai-agents-api-automation-webhooks-no-code/?referralCode=0309FD70BE2D72630C09)
+
+- 📖 **Get the Companion Book**  
+  [n8n Automation Mastery – Full Guidebook](https://lms.syncbricks.com/books/n8n)
+
+- ☁️ **Try n8n Cloud Hosting**  
+  [Sign Up for n8n Cloud via SyncBricks](https://n8n.syncbricks.com)
+
+- 📺 **Watch Tutorials and Demos**  
+  [Subscribe to SyncBricks YouTube Channel](https://www.youtube.com/channel/UC1ORA3oNGYuQ8yQHrC7MzBg?sub_confirmation=1)
+
 ---
 
 ## 📬 Contributing
